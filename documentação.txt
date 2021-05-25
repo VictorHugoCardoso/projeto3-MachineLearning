@@ -1,0 +1,2 @@
+Alteramos nomes para portugues para facilitar o entendimento.
+Alteramos SIM ou NÂO para 1 ou 0 para possibilitar calculos em cima dos dados.
