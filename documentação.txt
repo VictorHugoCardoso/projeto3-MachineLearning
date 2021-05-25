@@ -1,2 +1,3 @@
 Alteramos nomes para portugues para facilitar o entendimento.
-Alteramos SIM ou NÂO para 1 ou 0 para possibilitar calculos em cima dos dados.
+Alteramos Sim ou Não para 1 ou 0 para possibilitar calculos em cima dos dados.
+Alteramos Positivo ou Negativo para 1 ou 0 para possibilitar calculos em cima dos dados.
