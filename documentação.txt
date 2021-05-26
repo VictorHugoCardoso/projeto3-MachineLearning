@@ -3,3 +3,8 @@ Alteramos Sim ou Não para 1 ou 0 para possibilitar calculos em cima dos dados.
 Alteramos Positivo ou Negativo para 1 ou 0 para possibilitar calculos em cima dos dados.
 Alteramos Masculino ou Feminino para 1 ou 0 para possibilitar calculos em cima dos dados.
 Verificado que não existem dados nulos na base.
+
+
+A base deveria ter um bias para o lado positivo porém o bias não é tão grande por conta de muitas pessoas sem sintomas fazendo o teste e tendo resultado negativo.
+Mais da metade da base é composta por dados duplicados por conta de muitos dados negativos de pessoas sem sintomas.
+Não é possivel definir que os dados são duplicados ou pessoas diferentes.
