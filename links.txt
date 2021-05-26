@@ -1,0 +1,2 @@
+https://www.kaggle.com/aj4abinjacob/early-stage-diabetes-prediction/data
+http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.
