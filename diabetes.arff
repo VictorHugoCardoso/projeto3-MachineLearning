@@ -1,6 +1,6 @@
 @RELATION diabetes
 
-@attribute Idade NUMERIC
+@attribute Idade INTEGER
 @attribute Genero {M,F}
 @attribute Poliuria {0,1}
 @attribute Polidipsia {0,1}
@@ -16,7 +16,7 @@
 @attribute RigidezMuscular {0,1}
 @attribute Alopecia {0,1}
 @attribute Obesidade {0,1}
-@attribute Classe {0,1}
+@attribute Diabete {0,1}
 
 @DATA
 40,M,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1
